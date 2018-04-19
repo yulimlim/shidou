@@ -13,14 +13,14 @@ zaixian={
 @01="http://jx.618g.com/?url="
 @01="http://jx.89zg.cn/?url="
 @01="http://api.visaok.net/?url="
-@01="http://api.xyingyu.com/?url="
-@01="http://api.greatchina56.com/?url="};
+@01="http://api.greatchina56.com/?url="
+@01="http://jx.boctx.cn/jx.php/?url="};
 qita={
 @01="http://jx.618g.com/?url="
 @01="http://jx.89zg.cn/?url="
 @01="http://api.visaok.net/?url="
-@01="http://api.xyingyu.com/?url="
 @01="http://api.greatchina56.com/?url="
+@01="http://jx.boctx.cn/jx.php/?url="
 @01="http://jx.hxbte.cn/jx.php/?url="
 @01="http://jx.908astbb.cn/jx.php/?url="
 @01="http://www.85105052.com/admin.php?url="
@@ -32,6 +32,6 @@ qita={
 <analysis>http://jx.618g.com/?url=</analysis>-----这里是解析接口1
 <analysis2>http://jx.89zg.cn/?url=</analysis2>-----这里是解析接口2
 <analysis3>http://api.visaok.net/?url=</analysis3>-----这里是解析接口3
-<analysis4>http://api.xyingyu.com/?url=</analysis4>-----这里是解析接口4
+<analysis4>http://api.greatchina56.com/?url=</analysis4>-----这里是解析接口4
 <analysis5>http://api.baiyug.vip/index.php?url=</analysis5>-----这里是解析接口5
 <analysis6>http://vip.1717yun.com/52rctc.php?url=</analysis6>-----这里是解析接口6
