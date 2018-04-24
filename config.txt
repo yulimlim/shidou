@@ -14,13 +14,13 @@ zaixian={
 @01="http://jx.89zg.cn/?url="
 @01="http://api.visaok.net/?url="
 @01="http://api.greatchina56.com/?url="
-@01="http://jx.boctx.cn/jx.php/?url="};
+@01="http://110cctv.com/vip.php?url="};
 qita={
 @01="http://jx.618g.com/?url="
 @01="http://jx.89zg.cn/?url="
 @01="http://api.visaok.net/?url="
 @01="http://api.greatchina56.com/?url="
-@01="http://jx.boctx.cn/jx.php/?url="
+@01="http://110cctv.com/vip.php?url="
 @01="http://jx.hxbte.cn/jx.php/?url="
 @01="http://jx.908astbb.cn/jx.php/?url="
 @01="http://www.85105052.com/admin.php?url="
