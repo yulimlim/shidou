@@ -11,13 +11,13 @@
 <jxapi>
 zaixian={
 @01="http://jx.618g.com/?url="
-@01="http://jx.89zg.cn/?url="
+@01="http://jx.aeidu.cn/7.php?url="
 @01="http://api.visaok.net/?url="
 @01="http://api.greatchina56.com/?url="
 @01="http://110cctv.com/vip.php?url="};
 qita={
 @01="http://jx.618g.com/?url="
-@01="http://jx.89zg.cn/?url="
+@01="http://jx.aeidu.cn/7.php?url="
 @01="http://api.visaok.net/?url="
 @01="http://api.greatchina56.com/?url="
 @01="http://110cctv.com/vip.php?url="
@@ -30,7 +30,7 @@ qita={
 /////////////抢板电影解析接口
 
 <analysis>http://jx.618g.com/?url=</analysis>-----这里是解析接口1
-<analysis2>http://jx.89zg.cn/?url=</analysis2>-----这里是解析接口2
+<analysis2>http://jx.aeidu.cn/7.php?url=</analysis2>-----这里是解析接口2
 <analysis3>http://api.visaok.net/?url=</analysis3>-----这里是解析接口3
 <analysis4>http://api.greatchina56.com/?url=</analysis4>-----这里是解析接口4
 <analysis5>http://api.baiyug.vip/index.php?url=</analysis5>-----这里是解析接口5
