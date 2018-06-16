@@ -11,7 +11,7 @@
 <jxapi>
 zaixian={
 @01="http://jx.618g.com/?url="
-@01="http://206dy.com/vv.php/?url="
+@01="http://api.xyingyu.com/?url="
 @01="http://api.visaok.net/?url="
 @01="http://api.greatchina56.com/?url="
 @01="http://206dy.com/vv.php/?url="};
